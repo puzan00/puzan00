@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Django developer</h3>
 
 - ⚡ Fun fact **I love playing fingerstyle guitar!**
-<img align="right" alt="coding" width="400" src="https://github.com/puzan00/puzan00/blob/main/code.png">
+<img align="right" alt="coding" width="500" src="https://github.com/puzan00/puzan00/blob/main/code.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/pujan shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pujan shrestha" height="30" width="40" /></a>
