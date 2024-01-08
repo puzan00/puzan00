@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pujan Shrestha</h1>
 <h3 align="center">A passionate Django developer</h3>
 
-- ⚡ Fun fact **I love playing fingerstyle guitar!!**
+- ⚡ Fun fact **I love playing fingerstyle guitar!**
 <img align="right" alt="coding" width="400" src="https://github.com/puzan00/puzan00/blob/main/code.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
